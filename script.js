@@ -31,7 +31,13 @@ $(document).ready(function(){
 });
 
 let nav = document.getElementById("nav");
+let links = [...document.getElementsByClassName("nav-link")];
 let menu = document.getElementById("menu");
 menu.addEventListener("click", () => {
     nav.classList.toggle("nav-visible");
 })
+links.forEach(link =>
+    link.addEventListener("click", () => {
+        nav.classList.remove("nav-visible");
+    })
+);
