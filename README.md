@@ -11,7 +11,7 @@ My goal was to reproduce and improve a [design](https://dribbble.com/shots/15433
 Duration: one day, July 2021.
 
 ## Screenshots
-
+![desktop view](./images\screenshot-desktop-view.png)
 ## Technologies
 - HTML
 - SCSS
