@@ -7,6 +7,9 @@ It was the first time I used the Slick carousel library, I really wanted to try 
 Solo project.
 My goal was to reproduce and improve a [design](https://dribbble.com/shots/15433764-Winstone-Responsive-design-for-the-marketing-agency) that I found and loved on Dribbble.
 
+## Deploy
+[Here](https://tanya-amber-l.github.io/Marketing-Agency-Design/)
+
 ### When
 Duration: one day, July 2021.
 
